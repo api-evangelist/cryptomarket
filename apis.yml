@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://api.exchange.cryptomkt.com/
 common:
+  - type: DomainSecurity
+    url: security/cryptomarket-domain-security.yml
   - type: Website
     url: https://api.exchange.cryptomkt.com/
   - type: PublicAPIsListing
