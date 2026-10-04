@@ -39,7 +39,6 @@ apis:
   - name: CryptoMarket
     description: "Cryptocurrencies Trading platform"
     humanURL: https://api.exchange.cryptomkt.com/
-    baseURL: https://api.exchange.cryptomkt.com/
     tags:
       - Cryptocurrency
     properties:
